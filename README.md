@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipe-pires&show_icons=true&theme=dracula&hide_progress=true">
 </div>
 
-## 📖 Atualmente trabalho com:
+## 🛠️ Atualmente trabalho com:
 
 <div>
    <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
