@@ -20,7 +20,6 @@
 ## 📖 Estou aprendendo sobre:
 
 <div>
-   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"/>
    <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
 </div>
 
